@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/d8i4MtjtpNYMTpp5AQ/giphy.gif" width="150"/>
 </div>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-</h1>
-
+  
 ### :man_technologist: About Me :
-I am a IT Support Specialist. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Hey, I'm Rickey! Here I document my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: I’m working as an IT Support Specialist.
+- :seedling: Exploring all things cybersecurity.
+
+- :zap: In my free time, I like to create home labs that help me gain experience in defensive cybersecurity to ultimately assist in landing a Security Analyst postion.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rickeystarks/]
