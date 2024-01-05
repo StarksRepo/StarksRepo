@@ -10,4 +10,4 @@ Hey, I'm Rickey! Here I document my professional development. <img src="https://
 
 - :zap: In my free time, I like to create home labs that help me gain experience in defensive cybersecurity to ultimately assist in landing a Security Analyst postion.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/rickeystarks/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickeystarks)
