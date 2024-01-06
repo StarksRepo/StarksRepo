@@ -12,5 +12,5 @@ Hey, I'm Rickey! Here I document my professional development. <img src="https://
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickeystarks)
 
-### Cybersecurity Home Labs:
+### Cybersecurity Labs:
 - [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
