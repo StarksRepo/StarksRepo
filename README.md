@@ -4,7 +4,7 @@
 <h1>
   
 ### :man_technologist: About Me :
-Hey, I'm Rickey! Here I document my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Hey, I'm Rickey! Here is where I document my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m working as an IT Support Specialist.
 - :seedling: Exploring all things cybersecurity.
 
