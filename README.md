@@ -5,7 +5,7 @@
   
 ### :man_technologist: About Me :
 Hey, I'm Rickey! Here is where I document my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m working as an.
+- :telescope: I’m working as an IT Support Specialist.
 - :seedling: Exploring all things cybersecurity.
 
 - :zap: In my free time, I like to create home labs that help me gain experience in defensive cybersecurity to ultimately assist in landing a Security Analyst postion.
