@@ -14,4 +14,3 @@ Hey, I'm Rickey! Documenting my professional development. <img src="https://medi
 
 ### Cybersecurity Labs:
 - [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
-- [Azure SIEM Lab (Currently working on)](https://github.com/StarksRepo/Azure-SIEM-Lab.git)
