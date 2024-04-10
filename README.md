@@ -15,4 +15,4 @@ Hey, I'm Rickey! Documenting my professional development. <img src="https://medi
 ### Homelabs:
 - [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [ELK Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
-- [Active Directory Lab](https://github.com/StarksRepo/Active-Directory-Lab) - I Am Currently Documenting..
+
