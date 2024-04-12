@@ -8,7 +8,7 @@ Hey, I'm Rickey! Documenting my professional development. <img src="https://medi
 - :telescope: I’m working as an IT Support Specialist.
 - :seedling: Exploring all things cybersecurity.
 
-- :zap: In my free time, I like to create home labs and upskill on [TryHackMe.com](https://tryhackme.com/r/path-action/soclevel1/join) to gain experience in defensive cybersecurity in hope of ultimately landing a Security Analyst postion.
+- :zap: In my free time, I like to create home labs and upskill on [TryHackMe.com](https://tryhackme.com/r/path-action/soclevel1/join) to gain defensive cybersecurity experience in hopes of ultimately landing a Security Analyst postion.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickeystarks)
 
