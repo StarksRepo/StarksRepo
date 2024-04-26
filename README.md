@@ -7,7 +7,7 @@
 Hey, I'm Rickey! Documenting my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m working as an IT Support Specialist.
 - :seedling: Exploring all things Cybersecurity.
-- :zap: In my free time I enjoy watching sports, shows, and enjoying some good food. 
+- :zap: In my free time I enjoy watching sports, shows, and eating some good food. 
 
 ### Homelabs:
 - [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
