@@ -11,4 +11,4 @@ Hey, I'm Rickey! Documenting my professional development. <img src="https://medi
 
 ### Homelabs:
 - [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
-- [ELK Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
+- [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
