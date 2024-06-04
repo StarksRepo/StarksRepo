@@ -8,7 +8,7 @@ Hi, I'm Rickey! Welcome to my GitHub. I am a passoniate IT enthusiast with a foc
 *   🧠  I’m working as an IT Support Specialist. - Currently learning system administration and cybersecurity.
 *   ⚡  Fun fact : Jack of all Trades / Forever Learner.
   # Skills 
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple)](https://skillicons.dev)
 # Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
