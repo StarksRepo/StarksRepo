@@ -5,9 +5,9 @@
   
 ### :man_technologist: About Me :
 Hey, I'm Rickey! Documenting my professional development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m working as an IT Support Specialist.
-- :seedling: Exploring all things Cybersecurity.
-- :zap: In my free time I enjoy watching sports, shows, and eating some good food. 
+*   🧠  I’m working as an IT Support Specialist. - Currently learning system administration and cybersecurity.
+*   ⚡  Fun fact : Jack of all Trades / Forever Learner.
+  ## Skills 
 
 ### Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
