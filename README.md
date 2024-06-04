@@ -10,5 +10,5 @@ Hey, I'm Rickey! Documenting my professional development. <img src="https://medi
 - :zap: In my free time I enjoy watching sports, shows, and eating some good food. 
 
 ### Homelabs:
-- [Vulnerability Management Lab](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
+- [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
