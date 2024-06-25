@@ -13,3 +13,4 @@ Hi, I'm Rickey! Welcome to my GitHub. I am a passoniate IT enthusiast with a foc
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
 - [Active Directory - Home Lab](https://github.com/StarksRepo/Active-Directory-Lab.git)
+- [Active Directory - Azure AD Synchronization Lab](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project.git)
