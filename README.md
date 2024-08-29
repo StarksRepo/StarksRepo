@@ -5,7 +5,7 @@
   
 # :man_technologist: About Me :
 Hi, I'm Rickey! Welcome to my GitHub. I am a passoniate IT enthusiast with a focus on cybersecurity. My repository is created to further my skills and create homelabs that are completed in a controlled environment. I encourage you to have a look around and join me on this journey of forever learning..  
-*   🧠  I’m working as an IT Support Specialist.
+*   🧠  I’m working as an Network Administrator.
 *   ⚡  Fun fact : Jack of all Trades / Forever Learner.
   # Skills 
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple)](https://skillicons.dev)
