@@ -4,7 +4,7 @@
 <h1>
   
 # :man_technologist: About Me :
-Hi, I'm Rickey! Welcome to my GitHub. I am a passoniate Network Admin with a focus on cybersecurity. My repository is created to further my skills and on a mission—learning to break things before the bad guys do (but with permission, of course)!
+Hi, I'm Rickey! Welcome to my GitHub. I am a passoniate Network Admin with a focus on cybersecurity. My repository is created to further my skills and on a mission learning to break things before the bad guys do (but with permission, of course)!
 *   🧠  I’m working as an Network Administrator.
 *   ⚡  Fun fact : .
   # Skills 
