@@ -7,8 +7,8 @@
 # :man_technologist: About Me :
 Hi, I'm Rickey! I'm a Network Administrator with a growing passion for cybersecurity. This GitHub is where I experiment, learn, and build my skills to stay one step ahead of cyber threats. My goal? Break things before the bad guys do—ethically, of course!
 *   🧠  Network Administrator by day, cybersecurity enthusiast by night.
-*   🎯  Sharpening my skills as I transition into cybersecurity.
-*   ⚡  Fun fact: I see firewalls and vulnerabilities as challenges just waiting to be solved!
+*   🎯  Continuously learning and transitioning into a security-focused role.
+*   ⚡  I’m all about turning vulnerabilities into learning opportunities!
   # Skills 
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple,py,vscode,windows)](https://skillicons.dev)
 # Homelabs:
