@@ -10,7 +10,7 @@ Hi, I'm Rickey! I'm a Network Administrator with a growing passion for cybersecu
 *   🎯  Sharpening my skills as I transition into cybersecurity.
 *   ⚡  Fun fact: I see firewalls and vulnerabilities as challenges just waiting to be solved!
   # Skills 
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple,py,vscode)](https://skillicons.dev)
 # Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
