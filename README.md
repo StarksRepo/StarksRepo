@@ -5,7 +5,7 @@
 <h1>
   
 # :man_technologist: About Me :
-Hi, I'm Rickey! I'm a Network Administrator with a strong foundation in system administration and a keen interest in cybersecurity. This GitHub is where I explore, troubleshoot, and sharpen my technical skills to keep systems secure and resilient.
+Hi, I'm Rickey! I'm a Network Administrator. This GitHub is where I explore, troubleshoot, and sharpen my technical skills to keep systems secure and resilient.
 *   🧠  Network Administrator by day, cybersecurity enthusiast by night.
 *   🎯  Committed to building secure, well-optimized infrastructures and expanding into a security-focused role.
 *   ⚡  Passionate about transforming technical challenges into learning opportunities!
