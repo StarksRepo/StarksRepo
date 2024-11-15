@@ -9,6 +9,10 @@ Hi, I'm Rickey! I'm a Network Administrator with a passion for System Administra
 *   🧠  System Administrator in the making, driven by a love for solving complex infrastructure challenges.
 *   🎯  Dedicated to building secure, reliable, and scalable systems while advancing into security-focused administration roles.
 *   ⚡  Committed to leveraging technology to enhance performance and simplify operations.
+
+  # Certifications
+*   🛡️  CompTIA Security+ (Active: 2023–2026)
+*  🖥️  Microsoft Certified AZ-801: Windows Server Hybrid Administrator Associate (In Progress)
   # Skills 
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple,py,vscode,windows)](https://skillicons.dev)
 # Homelabs:
