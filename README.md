@@ -1,6 +1,6 @@
 
 # :man_technologist: About Me :
-Hi, I'm Rickey! I'm a Network Administrator with a passion for System Administration. This GitHub is where I refine my skills in managing and optimizing IT infrastructures to ensure seamless operations.
+Hi, I'm Rickey! I'm a System Network Administrator. This GitHub is where I refine my skills in managing and optimizing IT infrastructures to ensure seamless operations.
 *   🧠  System Administrator in the making, driven by a love for solving complex infrastructure challenges.
 *   🎯  Dedicated to building secure, reliable, and scalable systems while advancing into security-focused administration roles.
 *   ⚡  Committed to leveraging technology to enhance performance and simplify operations.
