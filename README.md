@@ -1,9 +1,9 @@
 
 # :man_technologist: About Me :
-Hi, I'm Rickey! I'm a Systems Network Administrator. This GitHub is where I refine my skills in managing and optimizing IT infrastructures to ensure seamless operations.
-*   🧠  System Administrator in the making, driven by a love for solving complex infrastructure challenges.
-*   🎯  Dedicated to building secure, reliable, and scalable systems while advancing into security-focused administration roles.
-*   ⚡  Committed to leveraging technology to enhance performance and simplify operations.
+Hi, I'm Rickey! I'm a Systems Network Administrator transitioning into cybersecurity. This GitHub showcases my journey as I develop skills to identify, analyze, and mitigate security threats while protecting IT infrastructures.
+*   🧠  Cybersecurity Analyst in the making, driven by a passion for solving complex security challenges.
+*   🎯  Dedicated to building secure, resilient systems and leveraging tools like SIEM, vulnerability scanners, and endpoint protection to safeguard critical assets.
+*   ⚡  Committed to leveraging technology and advanced methodologies to detect, respond to, and prevent cyber threats.
 
   # Certifications
 *   🛡️  CompTIA Security+ (Active: 2023–2026)
