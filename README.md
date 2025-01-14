@@ -7,7 +7,7 @@ Hi, I'm Rickey! I'm a Systems Network Administrator transitioning into cybersecu
 
   # Certifications
 *   🛡️  CompTIA Security+ (Active: 2023–2026)
-*   🛡️  CompTIA CySA+ (In Progress)
+*   🛡️  Bachelor of Science in Information Technology (Expected Dec 2025)
   # Skills 
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple,py,vscode,windows)](https://skillicons.dev)
 # Homelabs:
