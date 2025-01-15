@@ -5,7 +5,7 @@ Hi, I'm Rickey! I'm a Systems Network Administrator transitioning into cybersecu
 *   🎯  Dedicated to building secure, resilient systems and leveraging tools like SIEM, vulnerability scanners, and endpoint protection to safeguard critical assets.
 *   ⚡  Committed to leveraging technology and advanced methodologies to detect, respond to, and prevent cyber threats.
 
-  # Certifications
+  # Education 
 *   🛡️  CompTIA Security+ (Active: 2023–2026)
 *   🛡️  Bachelor of Science in Information Technology (Expected Dec 2025)
   # Skills 
