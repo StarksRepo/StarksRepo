@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3prbGRycHlsdTNwdms5N3o2dGdnZmE5MjE2MXB6dTgyYmM5a29tdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0b1qyHhqfjKdnLqrF4/giphy.gif" alt="Cyber GIF" width="400" />
+</p>
 
 # :man_technologist: About Me :
 Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and optimizing IT infrastructures. This GitHub showcases my journey as I enhance my skills in designing, implementing, and maintaining secure and efficient systems.
@@ -8,8 +11,7 @@ Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and op
   # Education 
 *   🛡️  CompTIA Security+ (Active: 2023–2026)
 *   🛡️  Bachelor of Science in Information Technology (Expected Dec 2025)
-  # Skills 
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,linux,kali,apple,py,vscode,windows)](https://skillicons.dev)
+
 # Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
