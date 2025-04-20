@@ -10,7 +10,7 @@ Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and op
 
   # Education 
 *   🛡️  CompTIA Security+ (Active: 2023–2026)
-*   🛡️  Bachelor of Science in Information Technology (Expected Dec 2025)
+*   🛡️  CompTIA CySA+ (In Progress)
 
 # Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
