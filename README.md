@@ -16,5 +16,5 @@ Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and op
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
 - [Python Encrypted Password Generator](https://github.com/StarksRepo/Encrypted-Password-Generator-via-Python.git)
-- [Active Directory Lab](https://github.com/StarksRepo/Active-Directory-Lab.git)
-- [ AD - Azure Migration Lab](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project.git)
+
+
