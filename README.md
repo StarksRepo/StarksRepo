@@ -9,9 +9,9 @@ Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and op
 *   ⚡ Passionate about leveraging technology to enhance system performance, security, and reliability across enterprise networks.
 
   # Education 
-*   🛡️  CompTIA Security+ (Active: 2023–2026)
-*   🛡️  CompTIA CySA+ (In Progress)
-
+*   🛡️ CompTIA Security+ (Active: 2023–2026)
+*   🛡️ Microsoft Certified: Azure Administrator (AZ-104) (In Progress)
+	
 # Homelabs:
 - [Vulnerability Management Lab with Nessus](https://github.com/StarksRepo/Vulnerability-Management-Lab.git)
 - [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
