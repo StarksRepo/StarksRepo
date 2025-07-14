@@ -3,10 +3,11 @@
 </p>
 
 # :man_technologist: About Me :
-Hi, I'm Rickey! I'm a Systems Network Administrator dedicated to managing and optimizing IT infrastructures. This GitHub showcases my journey as I enhance my skills in designing, implementing, and maintaining secure and efficient systems.
-*   🖥️ Experienced in managing Active Directory, Windows Server, and network configurations to ensure seamless operations.
-*   🔧 Skilled in troubleshooting, system optimization, and deploying tools like EDRs, firewalls, and backup solutions to protect and maintain critical IT environments.
-*   ⚡ Passionate about leveraging technology to enhance system performance, security, and reliability across enterprise networks.
+Hi, I’m Rickey — a Cloud & Infrastructure Administrator focused on modernizing and securing enterprise environments through automation and cloud technologies. This GitHub showcases my journey as I expand my skills in Azure, scripting, and hybrid cloud systems.
+	•	☁️ Skilled in deploying and managing Azure resources, including virtual networks, storage, compute, and Conditional Access policies to support secure and scalable cloud environments.
+	•	🔐 Experienced in Azure AD, Intune, and M365 administration, migrating traditional on-prem systems to cloud-based identity and endpoint solutions.
+	•	⚙️ Automating infrastructure tasks using PowerShell and Azure CLI to streamline provisioning, compliance, and configuration.
+	•	🧠 Constantly building labs around hybrid identity, cloud security, and infrastructure-as-code to sharpen my ability to support modern cloud-native operations.
 
   # Education 
 *   🛡️ CompTIA Security+ (Active: 2023–2026)
