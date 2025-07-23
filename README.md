@@ -15,7 +15,7 @@
 	
 # Homelabs:
 - [Azure Backup & Restore Automation Lab](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
-- [Elastic Stack SIEM Lab](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
+- [Hybrid Identity Lab – Azure AD + On-Prem Sync](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
 - [Python Encrypted Password Generator](https://github.com/StarksRepo/Encrypted-Password-Generator-via-Python.git)
 
 
