@@ -16,5 +16,6 @@
 # Homelabs:
 - [Azure Backup & Restore Automation Lab](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
 - [Hybrid Identity Lab – Azure AD + On-Prem Sync](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project.git)
+- [Microsoft Defender for Cloud Lab](https://github.com/StarksRepo/Microsoft-Defender-for-Cloud-Lab.git)
 
 
