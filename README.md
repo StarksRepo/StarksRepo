@@ -10,7 +10,7 @@
 *	 🧠 Always building labs to sharpen my skills in hybrid identity, backup/recovery, and operational readiness
 
   # Education 
-*   🛡️ CompTIA Security+ (Active: 2023–2026)
+*   🛡️ CompTIA Security+ (Expires: 2026)
 *   🛡️ Microsoft Certified: Azure Administrator (AZ-104) (In Progress)
 	
 # Homelabs:
