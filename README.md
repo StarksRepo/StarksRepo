@@ -6,7 +6,7 @@
 👋 Hi, I’m Rickey — a Systems Administrator focused on modernizing and securing enterprise environments through automation and cloud technologies. This GitHub showcases my journey as I expand my skills in Azure, scripting, and hybrid cloud systems.
 *    ☁️ Deploying and managing Azure VMs, VNets, storage, and Conditional Access for secure, scalable environments.
 *	 🔐  Administering Entra ID (Azure AD), Intune, and Microsoft 365 with a focus on cloud migrations and endpoint security
-*	 ⚙️ Automating provisioning and configuration tasks using PowerShell, Azure CLI, and Bicep
+*	 ⚙️ Automating provisioning and configuration tasks using PowerShell, and Azure CLI,
 *	 🧠 Always building labs to sharpen my skills in hybrid identity, backup/recovery, and operational readiness
 
   # Education 
