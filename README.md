@@ -3,15 +3,15 @@
 </p>
 
 # :man_technologist: About Me :
-👋 Hi, I’m Rickey — a DoD-cleared Systems Administrator transitioning into cybersecurity. My GitHub documents my journey as I expand beyond Windows Server and VMware into threat detection, vulnerability management, and incident response, while continuing to leverage my background in enterprise IT.
-*    🔐 Cybersecurity Labs: Building hands-on projects aligned with CompTIA CySA+ — including SIEM log analysis (ELK), Microsoft Defender for Cloud misconfiguration testing, and vulnerability scanning.
-*	 ☁️ Cloud & Identity: Deploying and securing Azure resources (VMs, VNets, Storage) while administering Entra ID (Azure AD), Intune, and Microsoft 365 with a focus on identity protection and endpoint security.
-*	 ⚙️ Automation: Scripting with PowerShell and Azure CLI to streamline provisioning, patching, and remediation tasks.
-*	 🧠 Continuous Learning: Using homelabs to strengthen skills in security monitoring, incident response, and hybrid cloud defense.
+👋 Hi, I’m Rickey — a DoD-cleared Systems Administrator transitioning deeper into cloud computing. My GitHub documents my hands-on journey as I study for the Microsoft Azure Administrator (AZ-104) and build real-world labs.
+*   ☁️ Azure Focus: Deploying and managing VMs, VNets, Storage, and security controls in Azure.
+*	🔑 Identity & Access: Administering Entra ID (Azure AD), Intune, and Microsoft 365 with a focus on secure identity management.
+*	⚙️ Automation: Scripting with PowerShell and Azure CLI to streamline provisioning, patching, and remediation tasks.
+*	🧠 Continuous Learning: Expanding skills through homelabs to strengthen hybrid cloud administration
 
-  # Education 
+  🎓 Certifications
 *   🛡️ CompTIA Security+ (Expires: 2026)
-*   🛡️CompTIA CySA+ (In Progress)
+*   ☁️ Microsoft AZ-104 (in progress)
 	
 # Homelabs:
 - [Azure Backup & Restore Automation Lab](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
