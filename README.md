@@ -3,15 +3,15 @@
 </p>
 
 # :man_technologist: About Me :
-👋 Hi, I’m Rickey — a DoD-cleared Systems Administrator transitioning deeper into cloud computing. My GitHub documents my hands-on journey as I study for the Microsoft Azure Administrator (AZ-104) and build real-world labs.
-*   ☁️ Azure Focus: Deploying and managing VMs, VNets, Storage, and security controls in Azure.
-*	🔑 Identity & Access: Administering Entra ID (Azure AD), Intune, and Microsoft 365 with a focus on secure identity management.
+👋Hi, I’m Rickey Starks a Systems Administrator transitioning into Cybersecurity. My GitHub captures my hands-on learning as I build and secure hybrid environments while preparing for the CompTIA CySA+ certification.
+*   🛡️ Security Operations: Analyzing logs, monitoring alerts, and simulating incident response in homelabs to strengthen detection and defense skills.
+*	🔍 Threat & Vulnerability Management: Practicing vulnerability scanning, patch management, and remediation across Windows and cloud systems.
 *	⚙️ Automation: Scripting with PowerShell and Azure CLI to streamline provisioning, patching, and remediation tasks.
-*	🧠 Continuous Learning: Expanding skills through homelabs to strengthen hybrid cloud administration
+*	🧠 Continuous Learning: Expanding into SIEM, incident response, and SOC operations to bridge infrastructure and cybersecurity defense.
 
   🎓 Certifications
 *   🛡️ CompTIA Security+ (Expires: 2026)
-*   ☁️ Microsoft AZ-104 (in progress)
+*   🔎 CompTIA CySA+ (In Progress)
 	
 # Homelabs:
 - [Azure Backup & Restore Automation Lab](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
