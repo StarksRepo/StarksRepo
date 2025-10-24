@@ -14,8 +14,8 @@
 *   🔎 CompTIA CySA+ (In Progress)
 	
 # Homelabs:
-- [Azure Backup & Restore Automation Lab](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
-- [Hybrid Identity Lab – Azure AD + On-Prem Sync](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project.git)
+- [Nessus Lab](https://github.com/StarksRepo/Nessus-Vulnerability-Management-Lab.git))
+- [ELK SIEM LAB](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
 - [Microsoft Defender for Cloud Lab](https://github.com/StarksRepo/Microsoft-Defender-for-Cloud-Lab.git)
 
 
