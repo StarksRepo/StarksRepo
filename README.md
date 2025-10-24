@@ -14,7 +14,7 @@
 *   🔎 CompTIA CySA+ (In Progress)
 	
 # Homelabs:
-- [Nessus Lab](https://github.com/StarksRepo/Nessus-Vulnerability-Management-Lab.git))
+- [Nessus Lab](https://github.com/StarksRepo/Nessus-Vulnerability-Management-Lab.git)
 - [ELK SIEM LAB](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
 - [Microsoft Defender for Cloud Lab](https://github.com/StarksRepo/Microsoft-Defender-for-Cloud-Lab.git)
 
