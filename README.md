@@ -6,7 +6,7 @@
 
 
 # :man_technologist: About Me :
-👋Hi, I’m Rickey Starks — a Systems Administrator advancing into Cloud Engineering with a growing focus on Azure identity, automation, and secure infrastructure operations.
+👋Hi, I’m Rickey Starks a Systems Administrator advancing into Cloud Engineering with a growing focus on Azure identity, automation, and secure infrastructure operations. Here is where I document my projects to upskill.
 *   ☁️ Azure Hybrid Infrastructure: Entra ID, Intune, Azure VMs, and Windows Server integration
 *	🔐 Identity & Access Security: MFA, Conditional Access, and Zero Trust aligned controls
 *	🔄 Automation: PowerShell and Azure CLI to streamline administration and reduce manual effort
