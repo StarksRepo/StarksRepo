@@ -3,15 +3,15 @@
 </p>
 
 # :man_technologist: About Me :
-👋Hi, I’m Rickey Starks a Systems Administrator transitioning into Cybersecurity. My GitHub captures my hands-on learning as I build and secure hybrid environments while preparing for the CompTIA CySA+ certification.
-*   🛡️ Security Operations: Analyzing logs, monitoring alerts, and simulating incident response in homelabs to strengthen detection and defense skills.
-*	🔍 Threat & Vulnerability Management: Practicing vulnerability scanning, patch management, and remediation across Windows and cloud systems.
-*	⚙️ Automation: Scripting with PowerShell and Azure CLI to streamline provisioning, patching, and remediation tasks.
-*	🧠 Continuous Learning: Expanding into SIEM, incident response, and SOC operations to bridge infrastructure and cybersecurity defense.
+👋Hi, I’m Rickey Starks — a Systems Administrator advancing into Cloud Engineering with a growing focus on Azure identity, automation, and secure infrastructure operations.
+*   ☁️ Azure Hybrid Infrastructure: Entra ID, Intune, Azure VMs, and Windows Server integration
+*	🔐 Identity & Access Security: MFA, Conditional Access, and Zero Trust aligned controls
+*	🔄 Automation: PowerShell and Azure CLI to streamline administration and reduce manual effort
+*	📈 Cloud Operations: Monitoring, backup validation, and availability improvements for production workloads
 
   🎓 Certifications
-*   🛡️ CompTIA Security+ (Expires: 2026)
-*   🔎 CompTIA CySA+ (In Progress)
+*   ✅ CompTIA Security+ 
+*   ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 	
 # Homelabs:
 - [Nessus Lab](https://github.com/StarksRepo/Nessus-Vulnerability-Management-Lab.git)
