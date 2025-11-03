@@ -18,7 +18,7 @@
 	
 # Homelabs:
 - [Automating Backup](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
-- [ELK SIEM LAB](https://github.com/StarksRepo/Elastic-SIEM-Lab.git)
+- [AD-Azure Sync](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project)
 - [Microsoft Defender for Cloud Lab](https://github.com/StarksRepo/Microsoft-Defender-for-Cloud-Lab.git)
 
 
