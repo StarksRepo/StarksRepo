@@ -5,20 +5,6 @@
 
 
 
-# :man_technologist: About Me :
-👋Hi, I’m Rickey Starks a Systems Administrator advancing into Cloud Engineering with a growing focus on Azure identity, automation, and secure infrastructure operations. Here is where I document my projects to upskill.
-*   ☁️ Azure Hybrid Infrastructure: Entra ID, Intune, Azure VMs, and Windows Server integration
-*	🔐 Identity & Access Security: MFA, Conditional Access, and Zero Trust aligned controls
-*	🔄 Automation: PowerShell and Azure CLI to streamline administration and reduce manual effort
-*	📈 Cloud Operations: Monitoring, backup validation, and availability improvements for production workloads
 
-  🎓 Certifications
-*   ✅ CompTIA Security+ 
-*   ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
-	
-# Homelabs:
-- [Automating Backup](https://github.com/StarksRepo/Azure-Backup-Automation-Lab..git)
-- [AD-Azure Sync](https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project)
-- [Microsoft Defender for Cloud Lab](https://github.com/StarksRepo/Microsoft-Defender-for-Cloud-Lab.git)
 
 
